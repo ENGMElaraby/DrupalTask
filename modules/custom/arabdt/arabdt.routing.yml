@@ -1,0 +1,7 @@
+resume.form:
+ path: '/arabdt/form'
+ defaults:
+   _title: 'ArabDT form'
+   _form: '\Drupal\arabdt\Form\ArabdtForm'
+ requirements:
+   _permission: 'access content'
